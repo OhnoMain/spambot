@@ -1,7 +1,7 @@
 # 🧠 Bot Spammer by Ohno
 
 A terminal-based fun spam script written in Python for chaotic purposes (keyboard input only). This tool is made purely for entertainment and trolling friends
-> ⚠️ Use responsibly. This tool simulates real keyboard input and can mess things up if misused!
+> ⚠️ Use responsibly. This tool simulates real keyboard input and can mess things up if misused
 
 ---
 
