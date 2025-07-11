@@ -10,7 +10,6 @@ A terminal-based fun spam script written in Python for chaotic purposes (keyboar
 - **Random Spam** — Enter your own message and spam it.
 - **Custom Spam** — Use pre-written word lists (like `crazy.txt` and `italian.txt`)
 - **Boot animation** — Fake BIOS startup
-- **Green terminal ** — Hacker mode: on 
 
 ---
 
